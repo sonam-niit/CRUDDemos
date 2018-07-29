@@ -1,0 +1,5 @@
+com\niit\hibernatedemo\dao\UserDAO.class
+com\niit\hibernatedemo\model\User.class
+com\niit\hibernatedemo\config\DBConfig.class
+com\niit\hibernatedemo\config\App.class
+com\niit\hibernatedemo\daoimpl\UserDAOImpl.class
